@@ -1,0 +1,10 @@
+LSTM-1-layer, hidden 8, batch size 64, test MSE 657162.4540386944
+LSTM 1-layer, hidden 32, batch size 64: test MSE 474948.5151512611
+LSTM 1-layer, hidden 64, batch size 64: test MSE 605055.9050580404
+LSTM 2-layer, hidden 32, batch size 64: test MSE 500490.1635453784
+LSTM 3-layer, hidden 32, batch size 64: test MSE 693342.8132959226
+LSTM 3-layer, hidden 24, batch size 64: test MSE 695637.5022879192
+LSTM 3-layer, hidden 32, batch size 128: test MSE 876172.6583109437
+LSTM 3-layer, hidden 32, batch size 32: test MSE 969679.1340031959
+LSTM 8-layer, hidden 32, batch size 64, test MSE 1116390.4883231139
+
